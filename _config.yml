@@ -6,6 +6,7 @@ permalink: /:title/
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 kramdown:
   syntax_highlighter_opts:
     disable: true

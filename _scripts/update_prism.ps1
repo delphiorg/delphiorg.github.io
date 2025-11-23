@@ -49,40 +49,40 @@ if ($update -or $force) {
     $files = @(
         @{
             url = "https://cdn.jsdelivr.net/npm/prismjs@$latestVersion/themes/prism-tomorrow.css"
-            path = "assets/css/prism-tomorrow.css"
+            path = "../assets/css/prism-tomorrow.css"
         },
         @{
             url = "https://cdn.jsdelivr.net/npm/prismjs@$latestVersion/prism$suffix.js"
-            path = "assets/js/prism.js"
+            path = "../assets/js/prism.js"
         },
         @{
             url = "https://cdn.jsdelivr.net/npm/prismjs@$latestVersion/components/prism-pascal$suffix.js"
-            path = "assets/js/prism-pascal.js"
+            path = "../assets/js/prism-pascal.js"
             customize = $true # Flag for customization
         },
         @{
             url = "https://cdn.jsdelivr.net/npm/prismjs@$latestVersion/plugins/line-numbers/prism-line-numbers$suffix.css"
-            path = "assets/css/prism-line-numbers.css"
+            path = "../assets/css/prism-line-numbers.css"
         },
         @{
             url = "https://cdn.jsdelivr.net/npm/prismjs@$latestVersion/plugins/toolbar/prism-toolbar$suffix.css"
-            path = "assets/css/prism-toolbar.css"
+            path = "../assets/css/prism-toolbar.css"
         },
         @{
             url = "https://cdn.jsdelivr.net/npm/prismjs@$latestVersion/plugins/line-numbers/prism-line-numbers$suffix.js"
-            path = "assets/js/prism-line-numbers.js"
+            path = "../assets/js/prism-line-numbers.js"
         },
         @{
             url = "https://cdn.jsdelivr.net/npm/prismjs@$latestVersion/plugins/autolinker/prism-autolinker$suffix.js"
-            path = "assets/js/prism-autolinker.js"
+            path = "../assets/js/prism-autolinker.js"
         },
         @{
             url = "https://cdn.jsdelivr.net/npm/prismjs@$latestVersion/plugins/toolbar/prism-toolbar$suffix.js"
-            path = "assets/js/prism-toolbar.js"
+            path = "../assets/js/prism-toolbar.js"
         },
         @{
             url = "https://cdn.jsdelivr.net/npm/prismjs@$latestVersion/plugins/copy-to-clipboard/prism-copy-to-clipboard$suffix.js"
-            path = "assets/js/prism-copy-to-clipboard.js"
+            path = "../assets/js/prism-copy-to-clipboard.js"
         }
     )
 

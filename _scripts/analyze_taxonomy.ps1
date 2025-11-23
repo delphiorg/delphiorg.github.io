@@ -3,7 +3,7 @@
 $tags = @{}
 $categories = @{}
 
-$posts = Get-ChildItem -Path "_posts" -Recurse -File
+$posts = Get-ChildItem -Path "../_posts" -Recurse -File
 
 foreach ($post in $posts) {
     $content = Get-Content -Path $post.FullName

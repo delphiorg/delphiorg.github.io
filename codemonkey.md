@@ -5,6 +5,7 @@ date: '2015-02-13T07:26:53-07:00'
 author: 'Jim McKeeth'
 layout: page
 guid: 'http://delphi.org/?page_id=1920'
+permalink: /codemonkey/
 ---
 
 Welcome to the download page for my S<em>pecial Musical Number</em> based on <em>Code Monkey</em> by <a href="http://www.jonathancoulton.com/">Jonathan Coulton</a>. Thanks to JoCo for licensing his song under <a href="https://creativecommons.org/licenses/by-nc/3.0/">Creative Commons CC-NC</a>. My video is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons CC-NC-SA</a>. You can freely share the video and build on it, just keep the sharing going, and provide attribution. Same for the code.
@@ -15,7 +16,7 @@ http://youtu.be/-nGvMbQKS7U
 
 &nbsp;
 
-[delphi]
+```delphi
 uses
   JoCo;
 
@@ -25,23 +26,23 @@ uses
   Music.Start;
 
   CodeMonkey.GetUp.GetCoffee;
-  CodeMonkey.&amp;GoTo(Job);
+  CodeMonkey.&GoTo(Job);
   CodeMonkey.Have(BoringMeeting).
-  &amp;With(BoringManagerRob);
+  &With(BoringManagerRob);
 
   Rob.Say(['Code Monkey very diligent',
     'But his output stink',
-    'His code not &quot;functional&quot; or &quot;elegant&quot;',
+    'His code not "functional" or "elegant"',
     'What do Code Monkey think?']);
   CodeMonkey.Think(
     'maybe manager want to write login page himself!');
-  CodeMonkey.&amp;Not(SayItOutLoud);
-  CodeMonkey.&amp;Not(Crazy).Just(Proud);
+  CodeMonkey.&Not(SayItOutLoud);
+  CodeMonkey.&Not(Crazy).Just(Proud);
 
   CodeMonkey.Like(Fritos);
   CodeMonkey.Like(Tab and MountainDew);
   CodeMonkey.Very(SimpleMan).
-  &amp;With(BigWarmFuzzySecretHeart);
+  &With(BigWarmFuzzySecretHeart);
   CodeMonkey.Like(You);
   CodeMonkey.Like(You);
 
@@ -55,19 +56,19 @@ uses
     'No time for chat']);
   CodeMonkey.Have(LongWalkBackToCubicle).
   He.SitDown.PretendTo(Work);
-  CodeMonkey.&amp;Not(ThinkingSoStraight);
-  CodeMonkey.&amp;Not(FeelingSoGreat);
+  CodeMonkey.&Not(ThinkingSoStraight);
+  CodeMonkey.&Not(FeelingSoGreat);
 
   CodeMonkey.Like(Fritos);
   CodeMonkey.Like(Tab and MountainDew);
   CodeMonkey.Very(SimpleMan).
-  &amp;With(BigWarmFuzzySecretHeart);
+  &With(BigWarmFuzzySecretHeart);
   CodeMonkey.Like(You);
   CodeMonkey.Like(You, ALot);
   {TODO -oJim -cRefactoring : Make chorus a procedure!}
 
   CodeMonkey.Have(EveryReason).
-  &amp;To(GetOut, ThisPlace);
+  &To(GetOut, ThisPlace);
   CodeMonkey.Just(KeepOnWorking).
   See(you.r(SoftPrettyFace)).
   MuchRather(WakeUp).Eat(ACoffeeCake).
@@ -82,7 +83,7 @@ uses
   CodeMonkey.Like(Fritos);
   CodeMonkey.Like(Tab and MountainDew);
   CodeMonkey.Very(SimpleMan).
-  &amp;With(BigWarmFuzzySecretHeart);
+  &With(BigWarmFuzzySecretHeart);
   CodeMonkey.Like(You);
   CodeMonkey.Like(You);
 
@@ -102,7 +103,7 @@ uses
   //   For more information visit
   //     http://www.jonathancoulton.com/
 
-[/delphi]
+```
 
 Download the [<a href="http://delphi.org/downloads/CodeMonkeyCode.zip">full source code</a>] for a console or GUI app.
 

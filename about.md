@@ -5,8 +5,7 @@ date: '2008-08-13T01:04:39-06:00'
 author: 'Jim McKeeth'
 layout: page
 guid: 'http://www.delphi.org/?page_id=5'
-podPressPostSpecific:
-    - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'
+permalink: /about/
 ---
 
 [caption id="" align="alignright" width="300"]<img title="Athenea rocking to headphones!" alt="The PodCast at Delphi" src="/images/ThePodCast@Delphi[iTunes].jpg" width="300" height="300" /> The PodCast at Delphi[/caption]The PodCast at Delphi.org is the definitive podcast about the Delphi programming language, its tools and the people that make the community so amazing.  Episodes will generally focus on recent news and interviews with community members.  A new episode will be available every Monday.

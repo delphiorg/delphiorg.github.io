@@ -1,10 +1,13 @@
 ---
 id: 1344
-title: CodeRage
+title: Downloads
 date: '2013-10-15T12:34:50-06:00'
 author: 'Jim McKeeth'
 layout: page
 guid: 'http://delphi.org/?page_id=1344'
+permalink: /downloads/
+redirect_from:
+  - /coderage/
 ---
 
 Here is my code and downloads from my CodeRage x session from October, 2015.

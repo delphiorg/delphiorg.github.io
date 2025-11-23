@@ -1,4 +1,4 @@
-$posts = Get-ChildItem -Path "_posts" -Recurse -File
+$posts = Get-ChildItem -Path "../_posts" -Recurse -File
 
 $filesToUpdate = @{}
 
