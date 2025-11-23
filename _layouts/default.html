@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css">
+    <link rel="stylesheet" href="{{ '/assets/css/prism-tomorrow.css' | relative_url }}">
     {% include head-custom.html %}
 
 {% seo %}
@@ -36,7 +36,7 @@
         {{ content }}
       </section>
     </div>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-core.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-delphi.min.js"></script>
+      <script src="{{ '/assets/js/prism.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/prism-pascal.js' | relative_url }}"></script>
   </body>
 </html>
