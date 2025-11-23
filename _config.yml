@@ -1,3 +1,4 @@
 # url: 'http://delphi.org'
 name: 'The Podcast at Delphi.org'
 description: 'The Podcast about the Delphi programming language, tools, news and community.'
+baseurl: ""
