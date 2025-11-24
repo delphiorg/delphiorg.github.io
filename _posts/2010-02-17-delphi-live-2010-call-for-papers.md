@@ -1,10 +1,10 @@
-﻿---
+---
 id: 852
 title: 'Delphi Live! 2010 – Call for Papers'
 date: '2010-02-17T10:19:28-07:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=852'
+guid: 'http://delphi.org/?p=852'
 permalink: /2010/02/delphi-live-2010-call-for-papers/
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}'
@@ -20,7 +20,7 @@ tags:
 
 I am looking forward to seeing everyone at <a href="http://www.delphilive.com/conferences/delphi_live/home">Delphi Live!</a> 2010 in San Jose!  This is an email I just received . . .
 
-<hr />With the great success of the inaugural event in 2009, Delphi Live! is coming back to San Jose from <span style="text-decoration: line-through;">May 17-20</span>.  <span style="color: #ff0000;"><em><strong>UPDATE</strong></em></span>: <a href="http://www.delphi.org/2010/03/delphi-live-date-updated/">New dates announced</a>.
+<hr />With the great success of the inaugural event in 2009, Delphi Live! is coming back to San Jose from <span style="text-decoration: line-through;">May 17-20</span>.  <span style="color: #ff0000;"><em><strong>UPDATE</strong></em></span>: <a href="http://delphi.org/2010/03/delphi-live-date-updated/">New dates announced</a>.
 
 We are looking forward to another great gathering for Delphi developers  from all over the world and to meeting you again in that area where Delphi history has been written - and we want to celebrate with you, of course, Delphi's 15th birthday!
 

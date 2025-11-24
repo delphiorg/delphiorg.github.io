@@ -4,10 +4,10 @@ title: 'PDC Exhibit Floor'
 date: '2008-11-11T02:43:51-07:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=485'
+guid: 'http://delphi.org/?p=485'
 permalink: /2008/11/pdc-exhibit-floor/
 podPressMedia:
-    - 'a:1:{i:0;a:10:{s:3:"URI";s:49:"http://podcast.remobjects.com/14-ExhibitFloor.mp3";s:5:"title";s:0:"";s:4:"type";s:9:"audio_mp3";s:4:"size";s:7:"7099200";s:8:"duration";s:4:"9:51";s:12:"previewImage";s:77:"http://www.delphi.org/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
+    - 'a:1:{i:0;a:10:{s:3:"URI";s:49:"http://podcast.remobjects.com/14-ExhibitFloor.mp3";s:5:"title";s:0:"";s:4:"type";s:9:"audio_mp3";s:4:"size";s:7:"7099200";s:8:"duration";s:4:"9:51";s:12:"previewImage";s:77:"http://delphi.org/assets/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'
 enclosure:

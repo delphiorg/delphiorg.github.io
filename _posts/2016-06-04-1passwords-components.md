@@ -1,4 +1,4 @@
-﻿---
+---
 id: 2474
 title: 'More on 1Password’s Components'
 date: '2016-06-04T21:36:41-06:00'

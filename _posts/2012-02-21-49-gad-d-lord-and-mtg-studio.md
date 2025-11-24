@@ -1,4 +1,4 @@
-﻿---
+---
 id: 1122
 title: '49 – Gad D Lord and MTG Studio'
 date: '2012-02-21T17:53:41-07:00'

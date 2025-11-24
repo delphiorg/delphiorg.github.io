@@ -4,7 +4,7 @@ title: 'Now on iTunes'
 date: '2008-08-18T15:43:14-06:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=50'
+guid: 'http://delphi.org/?p=50'
 permalink: /2008/08/now-on-itunes/
 categories:
     - News

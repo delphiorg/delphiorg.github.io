@@ -1,4 +1,4 @@
-﻿---
+---
 id: 2783
 title: 'FireDAC MemTable Editing – New in 10.2 Tokyo'
 date: '2017-03-25T13:08:47-06:00'

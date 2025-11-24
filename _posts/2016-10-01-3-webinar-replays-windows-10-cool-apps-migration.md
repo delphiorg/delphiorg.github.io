@@ -1,4 +1,4 @@
-﻿---
+---
 id: 2649
 title: '3 Webinar Replays: Windows 10, Cool Apps & Migration'
 date: '2016-10-01T15:48:13-06:00'

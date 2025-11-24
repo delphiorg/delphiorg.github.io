@@ -1,4 +1,4 @@
-﻿---
+---
 id: 1401
 title: 'New MVPs & Directory'
 date: '2013-11-19T13:59:31-07:00'

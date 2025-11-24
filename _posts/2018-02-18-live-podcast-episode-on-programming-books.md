@@ -1,4 +1,4 @@
-﻿---
+---
 id: 3029
 title: 'LIVE! Monday at 9 AM PST – Podcast Episode on Programming Books'
 date: '2018-02-18T11:45:44-07:00'

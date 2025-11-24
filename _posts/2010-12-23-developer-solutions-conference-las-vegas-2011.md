@@ -1,4 +1,4 @@
-﻿---
+---
 id: 994
 title: 'Developer Solutions Conference – Las Vegas 2011'
 date: '2010-12-23T01:55:00-07:00'

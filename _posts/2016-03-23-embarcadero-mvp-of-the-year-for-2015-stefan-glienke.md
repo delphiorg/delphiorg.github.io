@@ -1,4 +1,4 @@
-﻿---
+---
 id: 2284
 title: 'Embarcadero MVP of the Year for 2015 – Stefan Glienke'
 date: '2016-03-23T09:55:53-06:00'

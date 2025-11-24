@@ -1,4 +1,4 @@
-﻿---
+---
 id: 1750
 title: 'Mobile Summer School 6: REST & BaaS'
 date: '2014-07-24T17:16:18-06:00'

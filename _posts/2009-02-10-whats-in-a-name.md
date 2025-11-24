@@ -1,10 +1,10 @@
-﻿---
+---
 id: 568
 title: 'What’s in a Language Name?'
 date: '2009-02-10T19:31:59-07:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=568'
+guid: 'http://delphi.org/?p=568'
 permalink: /2009/02/whats-in-a-name/
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'

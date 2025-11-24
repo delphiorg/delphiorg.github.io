@@ -4,7 +4,7 @@ title: 'First Dropbox Post'
 date: '2009-12-21T22:29:17-07:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=845'
+guid: 'http://delphi.org/?p=845'
 permalink: /2009/12/first-dropbox-post/
 enclosure:
     - "http://dl.dropbox.com/u/2847329/37%20-%20Rozlog%20-%20Rough.mp3\n20599008\naudio/mpeg\n"
@@ -18,7 +18,7 @@ tags:
     - podcast
 ---
 
-As I am sure everyone knows, I interviewed Michael Rozlog, the Delphi Product Manager at Embarcadero Technologies last Thursday.  I just got a chance to sit down and start editing it, but for those of you who cannot wait, I'll share the rough version out for preview.  My plan was to share it out via a <a href="http://www.delphi.org/2009/12/join-the-delphi-dropbox/">Dropbox shared folder</a>, but I am also going to share it via <a href="http://dl.dropbox.com/u/2847329/37%20-%20Rozlog%20-%20Rough.mp3">a DropBox public folder link</a>.
+As I am sure everyone knows, I interviewed Michael Rozlog, the Delphi Product Manager at Embarcadero Technologies last Thursday.  I just got a chance to sit down and start editing it, but for those of you who cannot wait, I'll share the rough version out for preview.  My plan was to share it out via a <a href="http://delphi.org/2009/12/join-the-delphi-dropbox/">Dropbox shared folder</a>, but I am also going to share it via <a href="http://dl.dropbox.com/u/2847329/37%20-%20Rozlog%20-%20Rough.mp3">a DropBox public folder link</a>.
 
 I'll keep the public folder link available until I post the final version of the episode.
 

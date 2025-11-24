@@ -1,10 +1,10 @@
-﻿---
+---
 id: 94
 title: 'BetaBlogging – Delphi 2009 Install Time'
 date: '2008-08-26T09:30:39-06:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=94'
+guid: 'http://delphi.org/?p=94'
 permalink: /2008/08/betablogging-delphi-2009-install-time/
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'

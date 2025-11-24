@@ -1,13 +1,13 @@
-﻿---
+---
 id: 492
 title: '15 – Julian Bucknall on DevExpress'
 date: '2008-11-19T01:35:47-07:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=492'
+guid: 'http://delphi.org/?p=492'
 permalink: /2008/11/15-julian-bucknall-on-devexpress/
 podPressMedia:
-    - 'a:1:{i:0;a:10:{s:3:"URI";s:81:"http://podcast.remobjects.com/15-DevExpress-Julian_media/15-DevExpress-Julian.mp3";s:5:"title";s:35:"15 - Julain Bucknall on DevExpress ";s:4:"type";s:9:"audio_mp3";s:4:"size";s:7:"3680458";s:8:"duration";s:4:"7:36";s:12:"previewImage";s:77:"http://www.delphi.org/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
+    - 'a:1:{i:0;a:10:{s:3:"URI";s:81:"http://podcast.remobjects.com/15-DevExpress-Julian_media/15-DevExpress-Julian.mp3";s:5:"title";s:35:"15 - Julain Bucknall on DevExpress ";s:4:"type";s:9:"audio_mp3";s:4:"size";s:7:"3680458";s:8:"duration";s:4:"7:36";s:12:"previewImage";s:77:"http://delphi.org/assets/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'
 enclosure:
@@ -34,7 +34,7 @@ The microphone picked up all the background noise, which makes it a little hard 
 <div>Watch online:</div>
 <ul>
 	<li><a href="http://www.vimeo.com/2284913">Vimeo</a></li>
-	<li><a href="http://www.delphi.org/screencasts/15-DevExpress-Julian.html">Windows Media</a></li>
+	<li><a href="http://delphi.org/screencasts/15-DevExpress-Julian.html">Windows Media</a></li>
 </ul>
 &nbsp;
 <div>File Downloads:</div>

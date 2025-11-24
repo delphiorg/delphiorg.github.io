@@ -1,4 +1,4 @@
-﻿---
+---
 id: 2760
 title: 'What’s In a Name and Advocacy Defined'
 date: '2017-03-20T20:45:37-06:00'

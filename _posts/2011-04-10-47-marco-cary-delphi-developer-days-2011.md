@@ -1,4 +1,4 @@
-﻿---
+---
 id: 1017
 title: '47 – Marco & Cary – Delphi Developer Days 2011'
 date: '2011-04-10T00:58:31-06:00'

@@ -4,7 +4,7 @@ title: 'Delphi Live! Date Updated'
 date: '2010-03-10T11:16:40-07:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=881'
+guid: 'http://delphi.org/?p=881'
 permalink: /2010/03/delphi-live-date-updated/
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}'
@@ -25,4 +25,4 @@ The Crowne Plaza looks really nice, although I am not sure where the new Embarca
 
 It is however right next to <a href="http://www.thetech.org/">the Tech Museum</a>, which we have had conference evening events at in the past.
 
-Still no update on the <a href="http://www.delphilive.com/">Delphi Live! website</a>, and I don't know if there is an extension on the <a href="http://www.delphi.org/2010/02/delphi-live-2010-call-for-papers/">Call for Papers</a> or not.
+Still no update on the <a href="http://www.delphilive.com/">Delphi Live! website</a>, and I don't know if there is an extension on the <a href="http://delphi.org/2010/02/delphi-live-2010-call-for-papers/">Call for Papers</a> or not.

@@ -1,4 +1,4 @@
-﻿---
+---
 id: 2856
 title: 'The April 2017 Tokyo Hotfix Works with the new Xcode & iOS'
 date: '2017-06-06T08:33:54-06:00'

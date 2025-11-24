@@ -1,4 +1,4 @@
-﻿---
+---
 id: 2146
 title: 'Podcast Episode 60 – Victory Fernandes'
 date: '2015-11-02T16:54:15-07:00'

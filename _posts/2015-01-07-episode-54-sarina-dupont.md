@@ -1,4 +1,4 @@
-﻿---
+---
 id: 1847
 title: 'Episode 54 – Sarina DuPont'
 date: '2015-01-07T09:53:03-07:00'

@@ -4,7 +4,7 @@ title: 'Intro to Generic Collections with Delphi 2009'
 date: '2008-09-26T11:35:45-06:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=257'
+guid: 'http://delphi.org/?p=257'
 permalink: /2008/09/intro-to-generic-collections-with-delphi-2009/
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}'

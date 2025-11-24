@@ -1,4 +1,4 @@
-﻿---
+---
 id: 2673
 title: 'Cool Apps & Niagara Falls'
 date: '2017-02-06T21:22:35-07:00'

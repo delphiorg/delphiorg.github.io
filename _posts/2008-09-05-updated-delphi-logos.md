@@ -4,7 +4,7 @@ title: 'Updated Delphi Logos'
 date: '2008-09-05T20:17:35-06:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=151'
+guid: 'http://delphi.org/?p=151'
 permalink: /2008/09/updated-delphi-logos/
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'
@@ -19,13 +19,13 @@ I actually wanted a "Built for Delphi" logo so I went to the <a title="CodeGear 
 I present the following updated logos for your downloading pleasure:
 <div>
 
-<img class="alignnone" title="Powered by Delphi 320 x 92" src="http://www.delphi.org/images/delphi/buttons/PoweredByDelphi320.png" alt="" width="320" height="92" />
+<img class="alignnone" title="Powered by Delphi 320 x 92" src="/assets/images/delphi/buttons/PoweredByDelphi320.png" alt="" width="320" height="92" />
 
-<img class="alignnone" title="Built with Delphi 320 x 91" src="http://www.delphi.org/images/delphi/buttons/BuiltWithDelphi320.png" alt="" width="320" height="91" />
+<img class="alignnone" title="Built with Delphi 320 x 91" src="/assets/images/delphi/buttons/BuiltWithDelphi320.png" alt="" width="320" height="91" />
 
 <strong><em>New:</em></strong>
 
-<img class="alignnone" title="Build For Delphi button" src="http://www.delphi.org/images/delphi/buttons/BuiltForDelphi320.png" alt="" width="320" height="91" />
+<img class="alignnone" title="Build For Delphi button" src="/assets/images/delphi/buttons/BuiltForDelphi320.png" alt="" width="320" height="91" />
 
 Or you can download a <a title="Download the 369 KB zip file." href="/images/delphi/buttons/DelphiButtons.zip">wide variety of sizes</a> in a single zip file.  If the size you need isn't in there, then you can resize it as needed.  (<em>Note:</em> I ran all of the images through <a href="http://pmt.sourceforge.net/pngcrush/" target="_blank">PNG crush</a> and maintained the rounded corner transparency.)
 

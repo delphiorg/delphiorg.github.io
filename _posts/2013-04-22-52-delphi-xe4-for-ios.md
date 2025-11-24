@@ -1,4 +1,4 @@
-﻿---
+---
 id: 1156
 title: '52 – Marco Cantu & Delphi XE4 for iOS'
 date: '2013-04-22T22:02:37-06:00'

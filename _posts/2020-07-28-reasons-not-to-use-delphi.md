@@ -1,4 +1,4 @@
-﻿---
+---
 id: 3519
 title: '13 Reasons NOT to use Delphi'
 date: '2020-07-28T18:18:35-06:00'

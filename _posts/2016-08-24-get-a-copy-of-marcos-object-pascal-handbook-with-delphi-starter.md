@@ -1,4 +1,4 @@
-﻿---
+---
 id: 2628
 title: 'Get a Copy of Marco’s Object Pascal Handbook with Delphi Starter'
 date: '2016-08-24T17:07:01-06:00'

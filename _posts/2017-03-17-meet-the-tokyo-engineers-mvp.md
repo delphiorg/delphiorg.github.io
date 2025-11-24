@@ -1,4 +1,4 @@
-﻿---
+---
 id: 2746
 title: 'Meet the Tokyo Engineers & MVP'
 date: '2017-03-17T15:21:42-06:00'

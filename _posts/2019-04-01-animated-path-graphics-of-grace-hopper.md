@@ -1,4 +1,4 @@
-﻿---
+---
 id: 3309
 title: 'Animated Path Graphics of Grace Hopper'
 date: '2019-04-01T00:51:32-06:00'

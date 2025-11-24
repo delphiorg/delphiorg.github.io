@@ -1,4 +1,4 @@
-﻿---
+---
 id: 3051
 title: 'Earlier this week’s episode on Cool Apps'
 date: '2018-03-09T15:16:19-07:00'

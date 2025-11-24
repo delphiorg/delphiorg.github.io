@@ -1,4 +1,4 @@
-﻿---
+---
 id: 1866
 title: 'Episode #55 – Interview with JT'
 date: '2015-01-21T13:33:52-07:00'

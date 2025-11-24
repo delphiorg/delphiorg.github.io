@@ -1,4 +1,4 @@
-﻿---
+---
 id: 2595
 title: 'MVP Spotlight: Samuel “Muka” David'
 date: '2016-08-03T00:34:27-06:00'

@@ -1,16 +1,16 @@
-﻿---
+---
 id: 442
 title: 'Episode 13 – Allen Bauer live at PDC2008'
 date: '2008-11-03T23:13:56-07:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=442'
+guid: 'http://delphi.org/?p=442'
 permalink: /2008/11/episode-13-allen-bauer/
 enclosure:
     - "http://podcast.remobjects.com/13-AllenBauer.mp3\r\n5286914\r\naudio/mpeg\r\n"
     - "http://podcast.remobjects.com/13-AllenBauer.wmv\r\n132977293\r\nvideo/x-ms-wmv\r\n"
 podPressMedia:
-    - 'a:1:{i:0;a:10:{s:3:"URI";s:47:"http://podcast.remobjects.com/13-AllenBauer.mp3";s:5:"title";s:40:"Episode 13 - Allen Bauer live at PDC2008";s:4:"type";s:9:"audio_mp3";s:4:"size";s:7:"5286914";s:8:"duration";s:5:"10:49";s:12:"previewImage";s:77:"http://www.delphi.org/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
+    - 'a:1:{i:0;a:10:{s:3:"URI";s:47:"http://podcast.remobjects.com/13-AllenBauer.mp3";s:5:"title";s:40:"Episode 13 - Allen Bauer live at PDC2008";s:4:"type";s:9:"audio_mp3";s:4:"size";s:7:"5286914";s:8:"duration";s:5:"10:49";s:12:"previewImage";s:77:"http://delphi.org/assets/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}'
 tags:
@@ -23,7 +23,7 @@ tags:
     - 'Video podCast'
 ---
 
-This was recorded live at PDC2008.  You are getting it unedited and raw, but in your choice of formats: Audio or Video!<img class="alignright" title="Allen Bauer" src="http://www.delphi.org/images/guests/AllenBauer125.jpg" alt="" width="125" height="167" />
+This was recorded live at PDC2008.  You are getting it unedited and raw, but in your choice of formats: Audio or Video!<img class="alignright" title="Allen Bauer" src="/assets/images/guests/AllenBauer125.jpg" alt="" width="125" height="167" />
 <ul>
 	<li>Talking about Delphi 2009 and Delphi Prism.</li>
 	<li>Discuss language compatibility going forward between the two languages.</li>

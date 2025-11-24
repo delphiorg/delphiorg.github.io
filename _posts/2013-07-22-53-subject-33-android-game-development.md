@@ -1,4 +1,4 @@
-﻿---
+---
 id: 1161
 title: '53 – Subject 33 & Android Game Development'
 date: '2013-07-22T09:07:53-06:00'

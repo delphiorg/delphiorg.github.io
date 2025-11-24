@@ -1,4 +1,4 @@
-﻿---
+---
 id: 2710
 title: 'Delphi’s DNA Infographic'
 date: '2017-02-24T11:02:29-07:00'

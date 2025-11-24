@@ -1,4 +1,4 @@
-﻿---
+---
 id: 3419
 title: 'Pretty Printing Your Source Code'
 date: '2019-10-08T17:33:10-06:00'

@@ -1,4 +1,4 @@
-﻿---
+---
 id: 1905
 title: 'Factorials, Combinations & Permutaions'
 date: '2015-02-08T18:56:51-07:00'

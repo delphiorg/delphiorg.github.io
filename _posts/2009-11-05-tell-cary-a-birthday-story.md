@@ -4,7 +4,7 @@ title: 'Tell Cary a Birthday Story'
 date: '2009-11-05T12:05:30-07:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=811'
+guid: 'http://delphi.org/?p=811'
 permalink: /2009/11/tell-cary-a-birthday-story/
 categories:
     - News

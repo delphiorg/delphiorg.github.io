@@ -1,13 +1,13 @@
-﻿---
+---
 id: 510
 title: '18 – CodeRage III Wrap-Up'
 date: '2008-12-09T02:17:23-07:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=510'
+guid: 'http://delphi.org/?p=510'
 permalink: /2008/12/18-coderage-iii-wrap-up/
 podPressMedia:
-    - 'a:1:{i:0;a:10:{s:3:"URI";s:52:"http://podcast.remobjects.com/18-CodeRage-WrapUp.mp3";s:5:"title";s:25:"18 - CodeRage III Wrap-Up";s:4:"type";s:9:"audio_mp3";s:4:"size";s:7:"3625673";s:8:"duration";s:4:"7:32";s:12:"previewImage";s:77:"http://www.delphi.org/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
+    - 'a:1:{i:0;a:10:{s:3:"URI";s:52:"http://podcast.remobjects.com/18-CodeRage-WrapUp.mp3";s:5:"title";s:25:"18 - CodeRage III Wrap-Up";s:4:"type";s:9:"audio_mp3";s:4:"size";s:7:"3625673";s:8:"duration";s:4:"7:32";s:12:"previewImage";s:77:"http://delphi.org/assets/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'
 tags:
@@ -24,7 +24,7 @@ tags:
 
 I understand Christine and Anders were working really hard behind the scenes to keep it all running smoothly though.  At one point Christine’s microphone was unmuted in Room 1 and it was very obvious she was rather annoyed with some of the technical challenges live meeting was presenting.
 
-<a href="http://www.Delphi.org/Robot-Rage/">Delphi Robot Rage</a> was a success, despite LiveMeeting having issues with my video.  Seems their codec is optimized for window screens, not 3D game video.  Jamie Ingilby took first place with his Delphinium bot, but all the bots performed really well.
+<a href="http://delphi.org/Robot-Rage/">Delphi Robot Rage</a> was a success, despite LiveMeeting having issues with my video.  Seems their codec is optimized for window screens, not 3D game video.  Jamie Ingilby took first place with his Delphinium bot, but all the bots performed really well.
 
 In the closing keynote <a href="http://www.embarcadero.com/">Embarcadero</a>’s Wayne Williams opened up with some pretty dry financials.  Basically covering where the economy is headed and that Embarcadero is still investing with 40% on R&amp;D.   Additionally he answered the question he keeps getting about when, how and why they are going to kill Delphi.  He said they are not.  They like Delphi, in fact, before being a CEO got in the way Wayne was a Delphi developer.
 

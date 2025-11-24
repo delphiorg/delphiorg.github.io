@@ -1,4 +1,4 @@
-﻿---
+---
 id: 2914
 title: 'Robert “Uncle Bob” Martin is Speaking at CodeRage XII'
 date: '2017-10-18T19:54:59-06:00'

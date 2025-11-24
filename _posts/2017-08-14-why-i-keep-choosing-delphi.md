@@ -1,4 +1,4 @@
-﻿---
+---
 id: 2886
 title: 'Why I Keep Choosing Delphi'
 date: '2017-08-14T15:32:29-06:00'

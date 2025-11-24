@@ -1,4 +1,4 @@
-﻿---
+---
 id: 3170
 title: 'Arduino & Delphi Cosplay'
 date: '2018-10-26T16:16:49-06:00'

@@ -1,4 +1,4 @@
-﻿---
+---
 id: 2815
 title: 'Some Great Women of Programming'
 date: '2017-04-25T16:03:57-06:00'

@@ -1,13 +1,13 @@
-﻿---
+---
 id: 505
 title: '17 – CodeRage III and WideOrbit'
 date: '2008-12-01T14:22:42-07:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=505'
+guid: 'http://delphi.org/?p=505'
 permalink: /2008/12/17-coderage-iii-and-wideorbit/
 podPressMedia:
-    - 'a:1:{i:0;a:10:{s:3:"URI";s:59:"http://podcast.remobjects.com/17-CodeRage-and-WideOrbit.mp3";s:5:"title";s:31:"17 - CodeRage III and WideOrbit";s:4:"type";s:9:"audio_mp3";s:4:"size";s:7:"4089268";s:8:"duration";s:4:"8:27";s:12:"previewImage";s:77:"http://www.delphi.org/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
+    - 'a:1:{i:0;a:10:{s:3:"URI";s:59:"http://podcast.remobjects.com/17-CodeRage-and-WideOrbit.mp3";s:5:"title";s:31:"17 - CodeRage III and WideOrbit";s:4:"type";s:9:"audio_mp3";s:4:"size";s:7:"4089268";s:8:"duration";s:4:"8:27";s:12:"previewImage";s:77:"http://delphi.org/assets/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}'
 tags:
@@ -39,7 +39,7 @@ David I and Greg Keller had some demos of their products too.  Nick followed tha
 
 I am always surprised how many people don’t know what Software Assurance is.  Think of buying Delphi like buying a magazine.  A new version comes out about once a year, although lately they have been staggering the Delphi and RAD Studio releases.  So you can keep buying the individual editions, or if you know you want to get the next version, then you can save money and buy software assurance, which is a one year subscription to all the upgrades at your product level (i.e. Delphi Professional or RAD Studio Architect being different levels.)  So you pay a little more for the first purchase, and then you can keep renewing Software Assurance, which continues to give you the new versions for a better price then buying each version individually.  I am sure if you talk to a sales rep they can explain it much better than I did, but you get the general idea.
 
-Two things before I let you go:  First be sure to check out the <a href="http://www.Delphi.org/Robot-Rage/">Revenge of Delphi Robot Rage</a>.  Delphi Prism is now released and you have until Midnight Pacific Time on Wednesday the 3rd to submit your bot.
+Two things before I let you go:  First be sure to check out the <a href="http://delphi.org/Robot-Rage/">Revenge of Delphi Robot Rage</a>.  Delphi Prism is now released and you have until Midnight Pacific Time on Wednesday the 3rd to submit your bot.
 
 And lastly, I know a lot of people are looking for work right now, so I wanted to let you know WideOrbit, the company I work for, is now actively hiring Delphi super stars for their Seattle and San Francisco offices.  Real quick about WideOrbit:
 <ul>

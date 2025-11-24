@@ -1,4 +1,4 @@
-﻿---
+---
 id: 3371
 title: 'Integrating OBS Studio with X-Keys XK-24 USB Keypad'
 date: '2019-06-14T09:11:11-06:00'

@@ -1,13 +1,13 @@
-﻿---
+---
 id: 429
 title: '12 – Nick, marc & Allen on Delphi Prism'
 date: '2008-10-29T08:00:51-06:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=429'
+guid: 'http://delphi.org/?p=429'
 permalink: /2008/10/episode-12-nick-marc-allen-on-delphi-prism/
 podPressMedia:
-    - 'a:1:{i:0;a:10:{s:3:"URI";s:40:"http://www.cyberears.com/cybrss/4340.mp3";s:5:"title";s:32:"12 - Nick, marc & Allen on Prism";s:4:"type";s:9:"audio_mp3";s:4:"size";s:7:"8388021";s:8:"duration";s:5:"17:28";s:12:"previewImage";s:77:"http://www.delphi.org/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
+    - 'a:1:{i:0;a:10:{s:3:"URI";s:40:"http://www.cyberears.com/cybrss/4340.mp3";s:5:"title";s:32:"12 - Nick, marc & Allen on Prism";s:4:"type";s:9:"audio_mp3";s:4:"size";s:7:"8388021";s:8:"duration";s:5:"17:28";s:12:"previewImage";s:77:"http://delphi.org/assets/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}'
 tags:

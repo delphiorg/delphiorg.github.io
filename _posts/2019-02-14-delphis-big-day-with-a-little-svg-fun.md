@@ -1,4 +1,4 @@
-﻿---
+---
 id: 3279
 title: 'Delphi’s Big Day (with a little SVG fun!)'
 date: '2019-02-14T20:28:40-07:00'

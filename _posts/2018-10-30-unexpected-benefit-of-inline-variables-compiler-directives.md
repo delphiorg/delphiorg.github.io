@@ -1,4 +1,4 @@
-﻿---
+---
 id: 3196
 title: 'Unexpected Benefit of Inline Variables: Conditional Blocks'
 date: '2018-10-30T17:05:10-06:00'

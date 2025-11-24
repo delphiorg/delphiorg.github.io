@@ -1,10 +1,10 @@
-﻿---
+---
 id: 709
 title: 'Delphi Live! 2009 – What’s Cooking in the Delphi Labs – Part 7'
 date: '2009-05-30T22:08:34-06:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=709'
+guid: 'http://delphi.org/?p=709'
 permalink: /2009/05/what-is-cooking-in-the-delphi-labs-7/
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}'
@@ -33,5 +33,5 @@ Part 7 of 8
 
 [<a href="http://www.youtube.com/watch?v=AFZbMQJpQNM">YouTube</a>]
 
-[<a href="http://www.delphi.org/2009/05/what-is-cooking-in-the-delphi-labs-6/">Part 6</a>] - [Part 8] <em>(Coming soon!)</em>
+[<a href="http://delphi.org/2009/05/what-is-cooking-in-the-delphi-labs-6/">Part 6</a>] - [Part 8] <em>(Coming soon!)</em>
 

@@ -4,7 +4,7 @@ title: 'Delphi UserVoice and DelphiLive!'
 date: '2009-04-03T16:20:36-06:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=607'
+guid: 'http://delphi.org/?p=607'
 permalink: /2009/04/delphi-uservoice-and-delphilive/
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}'

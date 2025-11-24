@@ -1,4 +1,4 @@
-﻿---
+---
 id: 3062
 title: 'LIVE! with TMS Software’s Bruno Fierens, Wagner Landgraf & Holger Flick'
 date: '2018-03-23T15:15:33-06:00'

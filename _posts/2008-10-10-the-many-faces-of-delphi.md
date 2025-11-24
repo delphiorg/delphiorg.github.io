@@ -4,7 +4,7 @@ title: 'The Many Faces of Delphi'
 date: '2008-10-10T18:46:41-06:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=307'
+guid: 'http://delphi.org/?p=307'
 permalink: /2008/10/the-many-faces-of-delphi/
 categories:
     - News

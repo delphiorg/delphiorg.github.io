@@ -1,10 +1,10 @@
-﻿---
+---
 id: 598
 title: 'Delphi “Weaver” Beta coming'
 date: '2009-03-19T23:24:23-06:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=598'
+guid: 'http://delphi.org/?p=598'
 permalink: /2009/03/delphi-weaver-beta-coming/
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'

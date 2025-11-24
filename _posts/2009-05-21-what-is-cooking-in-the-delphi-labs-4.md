@@ -1,10 +1,10 @@
-﻿---
+---
 id: 684
 title: 'Delphi Live! 2009 – What is Cooking in the Delphi Labs – Part 4'
 date: '2009-05-21T13:53:39-06:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=684'
+guid: 'http://delphi.org/?p=684'
 permalink: /2009/05/what-is-cooking-in-the-delphi-labs-4/
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'
@@ -40,5 +40,5 @@ This is <a href="http://www.vimeo.com/4772593">part 4</a> of 8.
 RTTI
 Project "X" - Delphi application running on Mac OSX
 
-[<a href="http://www.delphi.org/2009/05/what-is-cooking-in-the-delphi-labs-3/">Part 3</a>] - [<a href="http://www.delphi.org/2009/05/what-is-cooking-in-the-delphi-labs-5/">Part 5</a>]
+[<a href="http://delphi.org/2009/05/what-is-cooking-in-the-delphi-labs-3/">Part 3</a>] - [<a href="http://delphi.org/2009/05/what-is-cooking-in-the-delphi-labs-5/">Part 5</a>]
 

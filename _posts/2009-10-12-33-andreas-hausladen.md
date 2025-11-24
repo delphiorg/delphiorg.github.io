@@ -1,13 +1,13 @@
-﻿---
+---
 id: 765
 title: '33 – Andreas Hausladen'
 date: '2009-10-12T00:30:32-06:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=765'
+guid: 'http://delphi.org/?p=765'
 permalink: /2009/10/33-andreas-hausladen/
 podPressMedia:
-    - 'a:1:{i:0;a:10:{s:3:"URI";s:40:"http://www.cyberears.com/cybrss/7496.mp3";s:5:"title";s:22:"33 - Andreas Hausladen";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"29971069";s:8:"duration";s:7:"1:02:14";s:12:"previewImage";s:77:"http://www.delphi.org/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
+    - 'a:1:{i:0;a:10:{s:3:"URI";s:40:"http://www.cyberears.com/cybrss/7496.mp3";s:5:"title";s:22:"33 - Andreas Hausladen";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"29971069";s:8:"duration";s:7:"1:02:14";s:12:"previewImage";s:77:"http://delphi.org/assets/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'
 tags:

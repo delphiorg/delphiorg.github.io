@@ -1,13 +1,13 @@
-﻿---
+---
 id: 788
 title: '34 – Craig Stuntz'
 date: '2009-10-19T02:18:16-06:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=788'
+guid: 'http://delphi.org/?p=788'
 permalink: /2009/10/34-craig-stuntz/
 podPressMedia:
-    - 'a:1:{i:0;a:10:{s:3:"URI";s:40:"http://www.cyberears.com/cybrss/7636.mp3";s:5:"title";s:17:"34 - Craig Stuntz";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"30236869";s:8:"duration";s:7:"1:02:55";s:12:"previewImage";s:77:"http://www.delphi.org/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
+    - 'a:1:{i:0;a:10:{s:3:"URI";s:40:"http://www.cyberears.com/cybrss/7636.mp3";s:5:"title";s:17:"34 - Craig Stuntz";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"30236869";s:8:"duration";s:7:"1:02:55";s:12:"previewImage";s:77:"http://delphi.org/assets/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'
 tags:

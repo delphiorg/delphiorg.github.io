@@ -1,4 +1,4 @@
-﻿---
+---
 id: 1326
 title: 'Delphi XE5 Android “Uses Permissions”'
 date: '2013-10-02T08:34:29-06:00'

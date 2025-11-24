@@ -1,4 +1,4 @@
-﻿---
+---
 id: 1182
 title: 'Directions to iPhone, Windows & OS X'
 date: '2013-07-25T09:32:21-06:00'

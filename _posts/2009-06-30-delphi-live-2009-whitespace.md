@@ -1,10 +1,10 @@
-﻿---
+---
 id: 719
 title: 'Delphi Live! 2009 – Whitespace'
 date: '2009-06-30T03:49:02-06:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=719'
+guid: 'http://delphi.org/?p=719'
 permalink: /2009/06/delphi-live-2009-whitespace/
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'

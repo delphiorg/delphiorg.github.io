@@ -1,4 +1,4 @@
-﻿---
+---
 id: 1989
 title: 'MVP Tweets of the Week – April 26, 2015'
 date: '2015-05-03T19:07:56-06:00'

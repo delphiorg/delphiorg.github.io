@@ -4,7 +4,7 @@ title: 'DataRage 2 starts TOMORROW!'
 date: '2010-05-24T12:23:28-06:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=951'
+guid: 'http://delphi.org/?p=951'
 permalink: /2010/05/datarage-2-starts-tomorrow/
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}'

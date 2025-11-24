@@ -4,7 +4,7 @@ title: 'First Delphi Flash Mob at PDC2008'
 date: '2008-10-27T13:23:07-06:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=413'
+guid: 'http://delphi.org/?p=413'
 permalink: /2008/10/first-delphi-flash-mob-at-pdc2008/
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'

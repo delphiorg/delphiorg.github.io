@@ -4,7 +4,7 @@ title: 'Openness vs. Freedom'
 date: '2010-04-10T22:18:15-06:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=936'
+guid: 'http://delphi.org/?p=936'
 permalink: /2010/04/openness-vs-freedom/
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}'
@@ -14,7 +14,7 @@ tags:
     - News
 ---
 
-There has been a lot of <a href="http://tech.turbu-rpg.com/116/personal-property-and-computing">f</a><a href="http://www.delphi.org/2010/04/monotouch-and-the-new-iphone-license/">u</a><a href="http://blog.marcocantu.com/blog/iarrogance.html">s</a><a href="http://www.itwriting.com/blog/2451-apple-banning-flash-applications-from-iphone-4-0-that-stinks.html">s</a> lately about the lack of openness on apple's platform.  There is still time for things to change, and hopefully this ends as a win for developers and consumers, but unless Apple changes their tune there will be no winners, only losers.
+There has been a lot of <a href="http://tech.turbu-rpg.com/116/personal-property-and-computing">f</a><a href="http://delphi.org/2010/04/monotouch-and-the-new-iphone-license/">u</a><a href="http://blog.marcocantu.com/blog/iarrogance.html">s</a><a href="http://www.itwriting.com/blog/2451-apple-banning-flash-applications-from-iphone-4-0-that-stinks.html">s</a> lately about the lack of openness on apple's platform.  There is still time for things to change, and hopefully this ends as a win for developers and consumers, but unless Apple changes their tune there will be no winners, only losers.
 
 The general consensus among the developers falls into two camps:
 <ol>

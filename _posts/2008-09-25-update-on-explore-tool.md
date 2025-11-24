@@ -4,7 +4,7 @@ title: 'Update on Explore Tool'
 date: '2008-09-25T23:59:33-06:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=245'
+guid: 'http://delphi.org/?p=245'
 permalink: /2008/09/update-on-explore-tool/
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'
@@ -17,7 +17,7 @@ tags:
     - tool
 ---
 
-MikeG reported that he wasn't able to get the <a href="http://www.delphi.org/2008/09/screencast-1-adding-an-explore-tool/#comments">Explore Tool in Delphi</a> to work in XP.  I tried it on XP today and it worked fine.  It might be that something was missed.  Here is a nice reference of the important bits from that screen cast:
+MikeG reported that he wasn't able to get the <a href="http://delphi.org/2008/09/screencast-1-adding-an-explore-tool/#comments">Explore Tool in Delphi</a> to work in XP.  I tried it on XP today and it worked fine.  It might be that something was missed.  Here is a nice reference of the important bits from that screen cast:
 
 Go to <strong>Tools </strong>/ <strong>Configure Tools </strong>/ <strong>Add</strong>
 

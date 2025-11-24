@@ -1,4 +1,4 @@
-﻿---
+---
 id: 1105
 title: '48 – Pascal Game Development with Jason McMillen'
 date: '2011-10-28T12:09:00-06:00'

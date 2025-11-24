@@ -1,4 +1,4 @@
-﻿---
+---
 id: 3613
 title: 'The First Computer Program – In Delphi'
 date: '2023-05-10T13:59:33-06:00'

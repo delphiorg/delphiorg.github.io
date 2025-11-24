@@ -4,7 +4,7 @@ title: 'Questions for Marco Cantu and Cary Jensen'
 date: '2010-02-23T13:52:35-07:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=864'
+guid: 'http://delphi.org/?p=864'
 permalink: /2010/02/questions-for-marco-cantu-and-cary-jensen/
 tags:
     - delphi

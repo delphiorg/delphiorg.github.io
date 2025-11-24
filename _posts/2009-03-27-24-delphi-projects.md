@@ -1,13 +1,13 @@
-﻿---
+---
 id: 600
 title: '24 – Delphi Projects'
 date: '2009-03-27T00:53:34-06:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=600'
+guid: 'http://delphi.org/?p=600'
 permalink: /2009/03/24-delphi-projects/
 podPressMedia:
-    - 'a:1:{i:0;a:10:{s:3:"URI";s:51:"http://podcast.remobjects.com/24-DelphiProjects.mp3";s:5:"title";s:20:"24 - Delphi Projects";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"26016598";s:8:"duration";s:5:"54:00";s:12:"previewImage";s:77:"http://www.delphi.org/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
+    - 'a:1:{i:0;a:10:{s:3:"URI";s:51:"http://podcast.remobjects.com/24-DelphiProjects.mp3";s:5:"title";s:20:"24 - Delphi Projects";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"26016598";s:8:"duration";s:5:"54:00";s:12:"previewImage";s:77:"http://delphi.org/assets/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'
 tags:

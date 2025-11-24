@@ -1,4 +1,4 @@
-﻿---
+---
 id: 3330
 title: 'WebBroker on Android and Raspberry Pi 3'
 date: '2019-04-26T00:37:19-06:00'

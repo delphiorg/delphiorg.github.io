@@ -1,4 +1,4 @@
-﻿---
+---
 id: 1341
 title: 'Reading Barcodes with XE5 – Preliminary post'
 date: '2013-10-15T09:20:55-06:00'

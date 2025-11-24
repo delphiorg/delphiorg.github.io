@@ -1,4 +1,4 @@
-﻿---
+---
 id: 2943
 title: 'Some of my New Year’s #CodingResolutions'
 date: '2018-01-09T03:06:19-07:00'

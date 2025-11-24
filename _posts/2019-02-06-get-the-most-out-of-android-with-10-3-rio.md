@@ -1,4 +1,4 @@
-﻿---
+---
 id: 3237
 title: 'Get the Most out of Android with 10.3 Rio'
 date: '2019-02-06T02:26:58-07:00'

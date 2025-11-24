@@ -1,4 +1,4 @@
-﻿---
+---
 id: 2454
 title: 'What is Delphi’s DNA?'
 date: '2016-06-02T19:52:24-06:00'

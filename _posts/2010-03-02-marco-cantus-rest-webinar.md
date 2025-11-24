@@ -1,10 +1,10 @@
-﻿---
+---
 id: 875
 title: 'Marco Cantu’s REST Webinar'
 date: '2010-03-02T18:34:04-07:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=875'
+guid: 'http://delphi.org/?p=875'
 permalink: /2010/03/marco-cantus-rest-webinar/
 categories:
     - News

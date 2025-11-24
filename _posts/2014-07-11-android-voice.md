@@ -1,4 +1,4 @@
-﻿---
+---
 id: 1731
 title: 'Skill Sprint: Android Voice – Speech Recognition and TTS'
 date: '2014-07-11T11:19:16-06:00'

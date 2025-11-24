@@ -1,13 +1,13 @@
-﻿---
+---
 id: 578
 title: '22 – Delphi Developer Days 2009'
 date: '2009-02-16T18:34:44-07:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=578'
+guid: 'http://delphi.org/?p=578'
 permalink: /2009/02/22-delphi-developer-days-2009/
 podPressMedia:
-    - 'a:1:{i:0;a:10:{s:3:"URI";s:60:"http://podcast.remobjects.com/22-DelphiDeveloperDays2009.mp3";s:5:"title";s:31:"22 - Delphi Developer Days 2009";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"25654184";s:8:"duration";s:5:"53:23";s:12:"previewImage";s:77:"http://www.delphi.org/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
+    - 'a:1:{i:0;a:10:{s:3:"URI";s:60:"http://podcast.remobjects.com/22-DelphiDeveloperDays2009.mp3";s:5:"title";s:31:"22 - Delphi Developer Days 2009";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"25654184";s:8:"duration";s:5:"53:23";s:12:"previewImage";s:77:"http://delphi.org/assets/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}'
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'
 tags:

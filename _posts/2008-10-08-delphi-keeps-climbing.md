@@ -4,7 +4,7 @@ title: 'Delphi Keeps Climbing'
 date: '2008-10-08T12:55:46-06:00'
 author: 'Jim McKeeth'
 layout: post
-guid: 'http://www.delphi.org/?p=292'
+guid: 'http://delphi.org/?p=292'
 permalink: /2008/10/delphi-keeps-climbing/
 podPressPostSpecific:
     - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}'
@@ -18,7 +18,7 @@ tags:
     - TPCI
 ---
 
-<a href="http://www.delphi.org/2008/09/tiobe-delphi-in-top-10/">Last month</a> Delphi was back in the top 10 for the TIOBE Programming Community Index for September.  Well the <a href="http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html">numbers for October</a> are out, and Delphi has kept on moving to position #9.  It bumped JavaScript.
+<a href="http://delphi.org/2008/09/tiobe-delphi-in-top-10/">Last month</a> Delphi was back in the top 10 for the TIOBE Programming Community Index for September.  Well the <a href="http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html">numbers for October</a> are out, and Delphi has kept on moving to position #9.  It bumped JavaScript.
 
 I truly believe we are in the <em><strong>Delphi Renaissance.</strong></em>
 

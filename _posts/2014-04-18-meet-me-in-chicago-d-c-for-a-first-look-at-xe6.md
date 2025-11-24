@@ -1,4 +1,4 @@
-﻿---
+---
 id: 1631
 title: 'Meet Me in Chicago & D.C./Baltimore for a First Look at XE6'
 date: '2014-04-18T13:22:14-06:00'

@@ -1,4 +1,4 @@
-﻿---
+---
 id: 3345
 title: 'Manually Installing Android SDK, NDK, and Java for FireMonkey Development'
 date: '2019-06-07T00:55:20-06:00'
